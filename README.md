@@ -1,1 +1,1 @@
-# The-thermal-relaxation-process-of-single-crystal-Sb-O-for-0-60-orientation
+# The thermal relaxation process of single-crystal Sb2O3 for 0°/60° orientation
